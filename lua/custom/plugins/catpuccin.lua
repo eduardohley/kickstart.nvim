@@ -3,9 +3,9 @@ return {
 	name = 'catppuccin',
 	config = function()
 		require('catppuccin').setup{
-			flavour = 'mocha',
+			flavour = 'macchiato',
 			background = {
-				dark = 'mocha',
+				dark = 'macchiato',
 				light = 'latte',
 			},
 			integrations = {
