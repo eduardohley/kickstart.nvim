@@ -150,7 +150,7 @@ require('lazy').setup({
     opts = {
       options = {
         icons_enabled = false,
-        theme = 'catppuccin',
+        theme = 'onedark',
         component_separators = '|',
         section_separators = '',
       },
